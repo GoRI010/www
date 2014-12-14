@@ -40,6 +40,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         ];        
 
   });
+  alert(arregloNacionales.length);
+  alert(arregloEstatales.length);
 })
 
 
