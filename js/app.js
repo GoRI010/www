@@ -39,9 +39,10 @@ angular.module('starter', ['ionic', 'starter.controllers'])
             {'id':13,'title':'Se Reforma el artículo 190; y Adiciona párrafo último al artículo 52 de y a la Ley Orgánica del Poder Judicial del Estado de San Luis Potosí','archivo':"Decreto796"},
         ];        
 
-  });
   alert(arregloNacionales.length);
   alert(arregloEstatales.length);
+  });
+
 })
 
 
